@@ -29,10 +29,10 @@ incomplete words. You would like to type in something like ?orcius and have the 
 
 #AUTHOR
 ---------
-*Uneet Patel
-*3rd year B.Tech Computer Science Engineering, IIT Ropar
-*Email - 2015csb1038@iitrpr.ac.in
-*Github profile - github.com/Uneetpatel7
+* Uneet Patel
+* 3rd year B.Tech Computer Science Engineering, IIT Ropar
+* Email - 2015csb1038@iitrpr.ac.in
+* Github profile - github.com/Uneetpatel7
 
 *********************************************************************************************************************************
 
@@ -55,26 +55,26 @@ COMPILING AND RUNNING PROGRAM
 
 FILE INFORMATION
 
-Header Files -  node.h -> Defines a node class to be used in linked list 
-		functions.h -> Header file for general functions used throughout the assignment
-		tuple.h -> Defines tuple class, for storing and returning the comparisons and false positive for a particular search
-		linkedlist.h -> Defines Linked list class (Maintains buckets)
-		hashtable.h -> Defines hashtable class, implemented using separate chaining (Linked List method)
+Header Files -  * node.h -> Defines a node class to be used in linked list 
+		* functions.h -> Header file for general functions used throughout the assignment
+		* tuple.h -> Defines tuple class, for storing and returning the comparisons and false positive for a particular search
+		* linkedlist.h -> Defines Linked list class (Maintains buckets)
+		* hashtable.h -> Defines hashtable class, implemented using separate chaining (Linked List method)
 
-CPP Files -   main.cpp -> Contains the main program
-		node.h -> Defines functions for the node class 
-		functions.h -> Defines general functions
-		tuple.h -> Defines functions for the tuple class
-		linkedlist.h -> Defines functions for the linkedlist class
-		hashtable.h -> Defines functions for the hashtable class
+CPP Files -     * main.cpp -> Contains the main program
+		* node.h -> Defines functions for the node class 
+		* functions.h -> Defines general functions
+		* tuple.h -> Defines functions for the tuple class
+		* linkedlist.h -> Defines functions for the linkedlist class
+		* hashtable.h -> Defines functions for the hashtable class
 
-Text Files-		T1.txt - Test string file for Q1
-		P1.txt - Pattern string file for Q1
-		T2.txt - Test string file for Q2
-		P2.txt - Pattern string file for Q2
-		2015csb1038Output1.txt -> Output file for Q1
-		2015csb1038Output2.txt -> Output file for Q2
-		Readme.txt -> Inception :3
+Text Files-	* T1.txt - Test string file for Q1
+		* P1.txt - Pattern string file for Q1
+		* T2.txt - Test string file for Q2
+		* P2.txt - Pattern string file for Q2
+		* 2015csb1038Output1.txt -> Output file for Q1
+		* 2015csb1038Output2.txt -> Output file for Q2
+		* Readme.txt -> Inception :3
 
 
 Makefile - File used to compile and link all the various cpp files in one go - Easy compilation.
