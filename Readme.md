@@ -7,6 +7,7 @@ This project implements hash tables and string matching using RabinKarp algorith
 Task
 ---------
 You task is to implement the Rabin­Karp algorithm using: 
+
 (1) all four hash codes  
 (Integer casting, Component sum, Polynomial sum, Cyclic sum) and 
 
@@ -26,11 +27,12 @@ incomplete words. You would like to type in something like ?orcius and have the 
 
 *********************************************************************************************************************************
 
-AUTHOR
-Uneet Patel
-3rd year B.Tech Computer Science Engineering, IIT Ropar
-Email - 2015csb1038@iitrpr.ac.in
-Github profile - github.com/Uneetpatel7
+#AUTHOR
+---------
+*Uneet Patel
+*3rd year B.Tech Computer Science Engineering, IIT Ropar
+*Email - 2015csb1038@iitrpr.ac.in
+*Github profile - github.com/Uneetpatel7
 
 *********************************************************************************************************************************
 
